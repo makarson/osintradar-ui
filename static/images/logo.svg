@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="78.417 214.388 333.094 87.77" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient gradientUnits="userSpaceOnUse" cx="101.374" cy="257.987" r="12.227" id="gradient-1" spreadMethod="pad" gradientTransform="matrix(0.626016, 0, 0, 0.716049, 41.045746, 72.208495)">
+      <stop offset="0" style="stop-color: #bada55"/>
+      <stop offset="1" style="stop-color: #758d29"/>
+    </radialGradient>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 327.30047607421875, 273.93402099609375)" style="" id="XgLCcb-Gr8ObFdUY4XRpN">
+    <text font-family="Ubuntu" font-size="50" font-style="normal" font-weight="500" line-height="1" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(1,173,95); fill-rule: nonzero; opacity: 1; white-space: pre;"><tspan x="-185.5" y="0.07528">SINT</tspan></text>
+  </g>
+  <g transform="matrix(1, 0, 0, 1, 432.5611572265625, 274.93402099609375)" style="" id="r9B0tBhr2v1WZ1pfYMaNo">
+    <text font-family="Ubuntu" font-size="50" font-style="normal" font-weight="300" line-height="1" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(34,34,34); fill-rule: nonzero; opacity: 1; white-space: pre;"><tspan x="-185.5" y="0.07528">RADAR</tspan></text>
+  </g>
+  <g transform="matrix(0.367667019367218, 0, 0, 0.367667019367218, 130.12351989746094, 256.59881591796875)" id="FNdUc4Pkgzuoq6X9_axwD">
+    <path style="stroke: rgb(236,252,81); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(34,34,34); fill-rule: nonzero; opacity: 1;" transform=" translate(0, 0)" d="M 0 -57.37705 C 31.67213 -57.37705 57.37705 -31.672129999999996 57.37705 0 C 57.37705 31.67213 31.672129999999996 57.37705 0 57.37705 C -31.67213 57.37705 -57.37705 31.672129999999996 -57.37705 0 C -57.37705 -31.67213 -31.672129999999996 -57.37705 0 -57.37705 z" stroke-linecap="round"/>
+  </g>
+  <g transform="matrix(0.48440104722976685, 0, 0, 0.48440104722976685, 134.3077392578125, 254.43275451660156)" id="8uZ2jhXDEK1LH5Cjoe0wJ">
+    <path style="stroke: rgb(166,246,209); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,173,95); fill-rule: nonzero; opacity: 1;" transform=" translate(0, 0)" d="M 0 -34.15301 C 18.85246 -34.15301 34.15301 -18.85246 34.15301 0 C 34.15301 18.85246 18.85246 34.15301 0 34.15301 C -18.85246 34.15301 -34.15301 18.85246 -34.15301 0 C -34.15301 -18.85246 -18.85246 -34.15301 0 -34.15301 z" stroke-linecap="round"/>
+  </g>
+  <g transform="matrix(0.2433980256319046, 0, 0, 0.2433980256319046, 132.0970916748047, 256.59881591796875)" id="0rMp_aDWrSFNQjERAGWIH">
+    <path style="stroke: rgb(236,252,81); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" transform=" translate(0, 0)" d="M 0 -57.37705 C 31.67213 -57.37705 57.37705 -31.672129999999996 57.37705 0 C 57.37705 31.67213 31.672129999999996 57.37705 0 57.37705 C -31.67213 57.37705 -57.37705 31.672129999999996 -57.37705 0 C -57.37705 -31.67213 -31.672129999999996 -57.37705 0 -57.37705 z" stroke-linecap="round"/>
+  </g>
+  <path d="M 104.173 295.024 C 103.068 297.112 100.678 297.801 98.97 296.353 C 94.178 292.278 90.169 287.076 87.236 281.068 C 83.67 273.779 81.8 265.551 81.805 257.19 C 81.812 248.829 83.691 240.607 87.27 233.319 C 90.214 227.323 94.223 222.128 99.024 218.063 C 100.738 216.613 103.125 217.306 104.228 219.399 C 105.327 221.49 104.739 224.204 103.053 225.692 C 99.377 228.943 96.293 233.013 94.005 237.681 C 91.079 243.638 89.539 250.357 89.538 257.197 C 89.533 264.035 91.061 270.759 93.977 276.72 C 96.262 281.392 99.334 285.473 103.007 288.73 C 104.691 290.218 105.279 292.936 104.173 295.024 Z" style="stroke-width: 0px; stroke-opacity: 0.09; stroke: rgb(125, 218, 85); fill: rgb(0, 173, 95);"/>
+  <path d="M 111.575 279.434 C 110.446 281.506 108.047 282.161 106.422 280.584 C 103.933 278.17 101.833 275.245 100.243 271.953 C 98.025 267.362 96.858 262.201 96.853 256.955 C 96.851 251.709 98.005 246.54 100.215 241.948 C 101.799 238.651 103.892 235.722 106.374 233.303 C 107.996 231.718 110.402 232.368 111.528 234.439 C 112.661 236.504 112.084 239.212 110.541 240.9 C 109.123 242.448 107.917 244.244 106.961 246.226 C 105.385 249.507 104.555 253.194 104.56 256.945 C 104.565 260.693 105.397 264.381 106.981 267.655 C 107.939 269.636 109.152 271.43 110.575 272.977 C 112.117 274.657 112.7 277.362 111.575 279.434 Z" style="fill: rgb(0, 173, 95); fill-rule: nonzero; stroke: url('#gradient-1'); paint-order: fill markers; stroke-width: 0px; stroke-linejoin: round; stroke-dashoffset: -50px; transform-origin: 104.507px 256.94px;"/>
+</svg>
